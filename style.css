@@ -1,3 +1,16 @@
 h1{
     color: blue;
 }
+
+img{
+    width: 200px;
+    height: 400px;
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 22px;
+}
