@@ -7,10 +7,15 @@ h1{
     height: 400px;
 }*/
 
-h3{
+p{
+    font-size: 22px;
     font-family: italic;
 }
 
-p{
-    font-size: 22px;
+body{
+    background-color: beige;
+}
+
+h2{
+    color: red;
 }
